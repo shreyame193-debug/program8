@@ -1,0 +1,19 @@
+4aa0fe1 updated audit.txt file second time
+022028b updated audit.txt file first time
+4e6d5b7 updated audit.txt with fourth line
+b22f8d9 updating audit.txt with third line
+8dabdc7 docs:update audit.txt with second line
+78cd0a0 feat:add initial audit.txt file
+69129fe conflict succesfully resolved
+8a2d215 merging branch1
+486564e commiting from brnach2
+ef83df1 commiting from branch1
+5c842cc this is from master
+ab43309 
+4242ae3 merging feature to master
+0cd960d feature.txt
+961b498 project2
+c5386e0 new one
+ed408c4 last commit
+e116edf 3rd commit
+1adaa1f this is my first commit
